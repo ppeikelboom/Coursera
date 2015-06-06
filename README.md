@@ -1,2 +1,2 @@
 # Coursera
-Coursera Coursework
+Coursera Coursework for Data Scientist Toolbox course
